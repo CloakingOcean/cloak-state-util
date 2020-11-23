@@ -1,0 +1,19 @@
+{
+  "name": "cloak-state-util",
+  "version": "1.0.2",
+  "description": "State Test Help Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloakingOcean/cloak-state-util.git"
+  },
+  "author": "CloakingOcean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CloakingOcean/cloak-state-util/issues"
+  },
+  "homepage": "https://github.com/CloakingOcean/cloak-state-util#readme"
+}
